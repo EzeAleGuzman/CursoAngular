@@ -1,0 +1,25 @@
+
+
+.header {
+    width: 100%;
+    background-color: red;
+
+
+}
+
+.logo  {
+    width: 10rem;
+
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.links {
+    margin-right: 1rem;
+}
